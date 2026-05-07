@@ -24,13 +24,14 @@ body {
   margin-bottom: 28px;
 }
 
-.header-icon {
-  font-size: 42px;
+
+.header-image {
+  width: 42px;
+  height: 42px;
   color: #ef4444;
   display: block;
   margin-bottom: 8px;
 }
-
 .header h1 {
   margin: 0;
   font-size: 2rem;

@@ -6,7 +6,7 @@ document.querySelector("#app").innerHTML = `
   <div class="page">
 
     <div class="header">
-      <span class="mdi mdi-alert-circle-outline header-icon"></span>
+      
       <h1>Save Metrolink</h1>
       <p>Links to help speak out against OCTA funding cuts to Metrolink</p>
     </div>
