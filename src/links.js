@@ -5,6 +5,11 @@ export const links = [
         icon: "mdi-bullhorn"
     },
     {
+        title: "Information Toolkit",
+        url: "https://docs.google.com/document/d/1prMYzTahbwzgVNtn0bfmMKDAa4uJzxozuuBfcnQbtrY/edit?usp=sharing",
+        icon: "mdi-information"
+    },
+    {
         title: "Canvassing Script",
         url: "https://docs.google.com/document/d/1gWLlyYa2d-7vLAkSdUPg4hxgd2EoYTsvh5cTyyw9eRY/edit?usp=sharing",
         icon: "mdi-file-document-outline"
