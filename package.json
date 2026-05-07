@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@iconify-json/mdi": "^1.2.3",
+    "@mdi/font": "^7.4.47",
+    "unplugin-icons": "^23.0.1",
     "vite": "^8.0.10"
   }
 }
