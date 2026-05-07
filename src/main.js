@@ -18,6 +18,7 @@ document.querySelector("#app").innerHTML = `
 
   <div class="cta">
     <a class="btn btn-primary" href="https://actionnetwork.org/letters/fund-metrolink-to-keep-transit-vibrant-and-affordable?source=direct_link&">Take Action</a>
+    <a class="btn btn-secondary" href="https://docs.google.com/document/d/1gWLlyYa2d-7vLAkSdUPg4hxgd2EoYTsvh5cTyyw9eRY/edit?usp=sharing">Canvassing Script</a>
     <a class="btn btn-secondary" href="#">View Meetings</a>
   </div>
 </section>
