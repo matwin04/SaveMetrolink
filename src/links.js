@@ -15,8 +15,8 @@ export const links = [
         icon: "mdi-file-document-outline"
     },
     {
-        title: "Transit Updates",
-        url: "#",
+        title: "Current Metrolink Updates",
+        url: "https://metrolinktrains.com/train_status/#tab=alerts&filter=train%20line&option=All%20train%20lines",
         icon: "mdi-train"
     }
 ];
