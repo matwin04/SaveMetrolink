@@ -13,5 +13,8 @@
     "@mdi/font": "^7.4.47",
     "unplugin-icons": "^23.0.1",
     "vite": "^8.0.10"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
   }
 }

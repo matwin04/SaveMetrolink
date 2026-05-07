@@ -1,5 +1,7 @@
 import '@mdi/font/css/materialdesignicons.css';
 import "./style.css";
+import { inject } from '@vercel/analytics';
+
 import {links} from "./links.js";
 import {articles} from "./articles.js";
 document.querySelector("#app").innerHTML = `
@@ -35,3 +37,4 @@ document.querySelector("#app").innerHTML = `
 
   </div>
 `;
+inject();
