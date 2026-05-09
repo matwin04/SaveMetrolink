@@ -15,7 +15,7 @@ export const links = [
         icon: "mdi-file-document-outline"
     },
     {
-        title:"William Go Email Template",
+        title:"Email Template",
         url:"https://docs.google.com/document/d/1jbxpxffPxwdXLkShHNinEZsMDSBTveh3P3izOYuP01Q/edit?usp=sharing",
         icon: "mdi-email"
 
