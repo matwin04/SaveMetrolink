@@ -10,5 +10,11 @@ export const articles = [
         url:"https://calelectricrail.org/regional-rail-at-risk-amidst-crisis-lossan-working-group-asleep-at-the-wheel/",
         icon: "mdi-book",
         publisher:"Californians for Electric Rail"
+    },
+    {
+        title:"Metrolink sees surge in ridership as soaring gas prices push SoCal commuters toward public transit",
+        icon: "mdi-book",
+        publisher:"ABC7",
+        url:"https://abc7.com/post/metrolink-sees-surge-ridership-soaring-gas-prices-push-socal-commuters-public-transit/19054342/"
     }
 ];
