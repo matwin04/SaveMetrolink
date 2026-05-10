@@ -21,6 +21,11 @@ export const links = [
 
     },
     {
+        title: "OCTA Agenda for Board Meeting (MAY 11)",
+        url: "https://octa.legistar.com/View.ashx?M=A&ID=1356330&GUID=78B4C870-B06F-4912-807E-5BAB3A888784",
+        icon: "mdi-information"
+    },
+    {
         title: "Current Metrolink Updates",
         url: "https://metrolinktrains.com/train_status/#tab=alerts&filter=train%20line&option=All%20train%20lines",
         icon: "mdi-train"
