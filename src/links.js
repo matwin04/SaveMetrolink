@@ -32,7 +32,7 @@ export const links = [
     },
     {
         title: "OCTA PREP MEETING Notes",
-        icon:"mdi-notes",
+        icon:"mdi-message-bulleted",
         url:"https://docs.google.com/document/d/12qLhpeqQM5VciRVpAHcbYtjySWaRmbZpJFxHYua-MJI/edit?tab=t.0"
     }
 ];
