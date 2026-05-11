@@ -29,5 +29,10 @@ export const links = [
         title: "Current Metrolink Updates",
         url: "https://metrolinktrains.com/train_status/#tab=alerts&filter=train%20line&option=All%20train%20lines",
         icon: "mdi-train"
+    },
+    {
+        title: "OCTA PREP MEETING Notes",
+        icon:"mdi-notes",
+        url:"https://docs.google.com/document/d/12qLhpeqQM5VciRVpAHcbYtjySWaRmbZpJFxHYua-MJI/edit?tab=t.0"
     }
 ];
