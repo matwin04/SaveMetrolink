@@ -5,10 +5,15 @@ export const links = [
         icon: "mdi-bullhorn"
     },
     {
-        title: "Information Toolkit",
+        title: "OCTA Information Toolkit",
         url: "https://docs.google.com/document/d/1prMYzTahbwzgVNtn0bfmMKDAa4uJzxozuuBfcnQbtrY/edit?usp=sharing",
         icon: "mdi-information"
     },
+    {
+        title: "Metro Information Toolkit",
+        url:"https://docs.google.com/document/d/1EpZpOBDn2IRKd_8a0dv5WPejzr_xglmxDwI152ZHBO8/edit?usp=sharing",
+        icon:"mdi-information"
+    }
     {
         title: "Canvassing Script",
         url: "https://docs.google.com/document/d/1gWLlyYa2d-7vLAkSdUPg4hxgd2EoYTsvh5cTyyw9eRY/edit?usp=sharing",

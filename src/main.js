@@ -24,6 +24,7 @@ document.querySelector("#app").innerHTML = `
         </a>
       `).join("")}
     </div>
+
     <div class="links">
      <h2>Articles</h2>
      ${articles.map(article => `
@@ -33,7 +34,7 @@ document.querySelector("#app").innerHTML = `
           <div class="link-card-subtitle">${article.publisher}</div>
           
         </a>`).join("")}
-</div>
+    </div>
 
   </div>
 `;
